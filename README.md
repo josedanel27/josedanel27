@@ -8,6 +8,7 @@
 - 🗣️ My native language is spanish but i try speak and write in english.
 
 ### 🛠 Technologies and tools
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -16,7 +17,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 📊 My Statistics
-![My Statistics](https://github-readme-stats.vercel.app/api?username=josedanel27&show_icons=true&theme=radial)
+![Metrics](https://metrics.lecoq.io/josedanel27?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata)
 
 <!--
 **josedanel27/josedanel27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
