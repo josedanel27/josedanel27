@@ -15,8 +15,8 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 📊 Mis Estadísticas
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radial)
+### 📊 My Statistics
+![My Statistics](https://github-readme-stats.vercel.app/api?username=josedanel27&show_icons=true&theme=radial)
 
 <!--
 **josedanel27/josedanel27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
