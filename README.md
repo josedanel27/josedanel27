@@ -16,6 +16,7 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+<!--
 ### 📊 My Statistics
 ![Metrics](https://metrics.lecoq.io/josedanel27?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata)
 
